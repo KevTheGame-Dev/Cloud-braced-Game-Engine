@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\kevin\cb-ge\cloud-braced-game-engine\cb-ge\cb-ge\main.cpp(8): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  CB-GE.vcxproj -> C:\Users\Kevin\CB-GE\Cloud-braced-Game-Engine\CB-GE\Debug\CB-GE.exe
